@@ -4,3 +4,6 @@ adminis+ 15008  0.0  0.0  11260   660 pts/4    S+   02:51   0:00 grep node-red
  cat /proc/9882/cmdline
 
 cat /proc/9882/cmdline
+
+
+node-redadministrator@F14BLNX06:~/nodejs/node_modules$ 
