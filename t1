@@ -12,3 +12,4 @@ bash
 forever list
 forever list |grep -i node-red
 forever list | grep -i stat
+==========================
