@@ -15,3 +15,7 @@ forever list | grep -i stat
 ==========================
 
 data:    [8]  _v1X /usr/bin/nodejs stats.js ./config.js 8802    59911    /home/administrator/.forever/_v1X.log 0:17:48:31.531
+
+info:    Forever restarted process(es):
+data:        uid  command         script               forever pid   id logfile                               uptime
+data:    [0] _v1X /usr/bin/nodejs stats.js ./config.js 8802    59911    /home/administrator/.forever/_v1X.log 0:17:49:48.439
