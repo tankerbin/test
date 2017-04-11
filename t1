@@ -11,3 +11,4 @@ node-redadministrator@F14BLNX06:~/nodejs/node_modules$
 bash
 forever list
 forever list |grep -i node-red
+forever list | grep -i stat
