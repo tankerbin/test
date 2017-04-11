@@ -7,3 +7,6 @@ cat /proc/9882/cmdline
 
 
 node-redadministrator@F14BLNX06:~/nodejs/node_modules$ 
+
+bash
+forever list
