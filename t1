@@ -13,3 +13,5 @@ forever list
 forever list |grep -i node-red
 forever list | grep -i stat
 ==========================
+
+data:    [8]  _v1X /usr/bin/nodejs stats.js ./config.js 8802    59911    /home/administrator/.forever/_v1X.log 0:17:48:31.531
